@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Submenus: React.FC = () => {
+const Submenu: React.FC = () => {
   return <div>Submenus</div>;
 };
 
-export default Submenus;
+export default Submenu;
